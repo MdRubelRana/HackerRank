@@ -1,2 +1,5 @@
+/.vscode
 /C
 /Java
+*exe
+*o
