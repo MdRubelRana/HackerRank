@@ -3,6 +3,8 @@
 
 #include <iostream>
 
+using namespace std;
+
 int greatestValue(int a, int b, int c, int d){
 
     int greatestNum;
@@ -20,8 +22,6 @@ int greatestValue(int a, int b, int c, int d){
     }
     return greatestNum;
 }
-
-using namespace std;
 
 int main() {
     int a, b, c, d, greatestNumber;
